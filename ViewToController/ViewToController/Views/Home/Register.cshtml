@@ -1,0 +1,66 @@
+﻿@model ViewToController.Models.Register
+
+@{
+    ViewBag.Title = "Register";
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Register</title>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm("Register", "home", FormMethod.Post))
+        {
+            <div>
+                <label>Name</label>
+                @Html.TextBoxFor(m => m.Name, new { @class = "form-control" })
+            </div>
+            <div>
+                <label>Email</label>
+                @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+            </div>
+            <div>
+                <label>Phone</label>
+                @Html.TextBoxFor(m => m.Phone, new { @class = "form-control" })
+            </div>
+            <div>
+                <label>Address</label>
+                @Html.TextBoxFor(m => m.Address, new { @class = "form-control" })
+            </div>
+            <div>
+                <label>City</label>
+                @Html.TextBoxFor(m => m.City, new { @class = "form-control" })
+            </div>
+            <div>
+                <label>State</label>
+                @Html.TextBoxFor(m => m.State, new { @class = "form-control" })
+            </div>
+            <div>
+                <label>Country</label>
+                @Html.TextBoxFor(m => m.Country, new { @class = "form-control" })
+            </div>
+            <div>
+                <label>Zip Code</label>
+                @Html.TextBoxFor(m => m.ZipCode, new { @class = "form-control" })
+            </div>
+            <div>
+                <label>Password</label>
+                @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+            </div>
+            <div>
+                <label>Confirm Password</label>
+                @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control" })
+            </div>
+            <div>
+                <input type="submit" value="Register" class="btn btn-primary" />
+            </div>
+            
+
+            <p>@ViewBag.Result</p>
+        }
+    </div>
+</body>
+</html>

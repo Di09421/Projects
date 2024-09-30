@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MVC8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB3CDAA-F37F-467A-BB43-058A525E3471}|MVC8\\MVC8.csproj|d:\\mvc8\\mvc8\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB3CDAA-F37F-467A-BB43-058A525E3471}|MVC8\\MVC8.csproj|solutionrelative:mvc8\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB3CDAA-F37F-467A-BB43-058A525E3471}|MVC8\\MVC8.csproj|D:\\MVC8\\mvc8\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCB3CDAA-F37F-467A-BB43-058A525E3471}|MVC8\\MVC8.csproj|solutionrelative:mvc8\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB3CDAA-F37F-467A-BB43-058A525E3471}|MVC8\\MVC8.csproj|D:\\MVC8\\mvc8\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCB3CDAA-F37F-467A-BB43-058A525E3471}|MVC8\\MVC8.csproj|solutionrelative:mvc8\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB3CDAA-F37F-467A-BB43-058A525E3471}|MVC8\\MVC8.csproj|D:\\MVC8\\mvc8\\views\\home\\securepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCB3CDAA-F37F-467A-BB43-058A525E3471}|MVC8\\MVC8.csproj|solutionrelative:mvc8\\views\\home\\securepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB3CDAA-F37F-467A-BB43-058A525E3471}|MVC8\\MVC8.csproj|D:\\MVC8\\mvc8\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB3CDAA-F37F-467A-BB43-058A525E3471}|MVC8\\MVC8.csproj|solutionrelative:mvc8\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB3CDAA-F37F-467A-BB43-058A525E3471}|MVC8\\MVC8.csproj|D:\\MVC8\\mvc8\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB3CDAA-F37F-467A-BB43-058A525E3471}|MVC8\\MVC8.csproj|solutionrelative:mvc8\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB3CDAA-F37F-467A-BB43-058A525E3471}|MVC8\\MVC8.csproj|D:\\MVC8\\mvc8\\mvc.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{CCB3CDAA-F37F-467A-BB43-058A525E3471}|MVC8\\MVC8.csproj|solutionrelative:mvc8\\mvc.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB3CDAA-F37F-467A-BB43-058A525E3471}|MVC8\\MVC8.csproj|D:\\MVC8\\mvc8\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CCB3CDAA-F37F-467A-BB43-058A525E3471}|MVC8\\MVC8.csproj|solutionrelative:mvc8\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB3CDAA-F37F-467A-BB43-058A525E3471}|MVC8\\MVC8.csproj|D:\\MVC8\\mvc8\\mvc.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB3CDAA-F37F-467A-BB43-058A525E3471}|MVC8\\MVC8.csproj|solutionrelative:mvc8\\mvc.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MVC8\\MVC8\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC8\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\MVC8\\MVC8\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC8\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T05:35:32.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\MVC8\\MVC8\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "MVC8\\Views\\Home\\Login.cshtml",
+              "ToolTip": "D:\\MVC8\\MVC8\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "MVC8\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T05:33:38.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\MVC8\\MVC8\\Database.cs",
+              "RelativeDocumentMoniker": "MVC8\\Database.cs",
+              "ToolTip": "D:\\MVC8\\MVC8\\Database.cs",
+              "RelativeToolTip": "MVC8\\Database.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T17:36:05.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\MVC8\\MVC8\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MVC8\\Models\\User.cs",
+              "ToolTip": "D:\\MVC8\\MVC8\\Models\\User.cs",
+              "RelativeToolTip": "MVC8\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T17:34:46.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\MVC8\\MVC8\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC8\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\MVC8\\MVC8\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC8\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwBAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T17:28:51.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\MVC8\\MVC8\\Web.config",
+              "RelativeDocumentMoniker": "MVC8\\Web.config",
+              "ToolTip": "D:\\MVC8\\MVC8\\Web.config",
+              "RelativeToolTip": "MVC8\\Web.config",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-29T18:05:35.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SecurePage.cshtml",
+              "DocumentMoniker": "D:\\MVC8\\MVC8\\Views\\Home\\SecurePage.cshtml",
+              "RelativeDocumentMoniker": "MVC8\\Views\\Home\\SecurePage.cshtml",
+              "ToolTip": "D:\\MVC8\\MVC8\\Views\\Home\\SecurePage.cshtml",
+              "RelativeToolTip": "MVC8\\Views\\Home\\SecurePage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T18:09:00.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MVC.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\MVC8\\MVC8\\MVC.edmx",
+              "RelativeDocumentMoniker": "MVC8\\MVC.edmx",
+              "ToolTip": "D:\\MVC8\\MVC8\\MVC.edmx [Diagram1]",
+              "RelativeToolTip": "MVC8\\MVC.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-09-30T04:55:27.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MVC.Context.cs",
+              "DocumentMoniker": "D:\\MVC8\\MVC8\\MVC.Context.cs",
+              "RelativeDocumentMoniker": "MVC8\\MVC.Context.cs",
+              "ToolTip": "D:\\MVC8\\MVC8\\MVC.Context.cs",
+              "RelativeToolTip": "MVC8\\MVC.Context.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAWwBsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T04:56:25.296Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

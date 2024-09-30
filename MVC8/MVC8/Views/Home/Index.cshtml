@@ -1,0 +1,162 @@
+﻿@model MVC8.Models.User
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <style>
+        /* Basic Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 20vh;
+        }
+
+        .container {
+            background: #fff;
+            padding: 10px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            height: 0%;
+            max-width: 300px;
+        }
+
+        h1 {
+            margin-bottom: 20px;
+            font-size: 24px;
+            text-align: center;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+        }
+
+        label {
+            margin-bottom: 8px;
+            font-weight: bold;
+        }
+
+        input {
+            margin-bottom: 1px;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+
+        button {
+            padding: 10px;
+            border: none;
+            border-radius: 4px;
+            background-color: #28a745;
+            color: white;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        .register-link {
+            display: inline-block;
+            margin-top: 15px;
+            font-size: 16px;
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        .register-link:hover {
+            text-decoration: underline;
+        }
+
+        button:hover {
+            background-color: #218838;
+        }
+
+        @*/* Media Queries for smaller devices */
+        @media (max-width: 768px) {*@
+            .container {
+                max-width: 40%;
+                max-height:70%;
+                padding: 25px;
+            }
+
+            h1 {
+                font-size: 20px;
+            }
+
+            input, button {
+                font-size: 14px;
+                padding: 8px;
+            }
+
+        @*@media (max-width: 480px) {*@
+            .container {
+                max-width: 95%;
+                padding: 10px;
+            }
+
+            h1 {
+                font-size: 18px;
+            }
+
+            input, button {
+                font-size: 12px;
+                padding: 6px;
+            }
+
+            label {
+                font-size: 14px;
+            }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Registration Form</h1>
+        @using (Html.BeginForm("Register", "Home"))
+        {
+            <label for="Name">Name:</label>
+            <input type="text" id="Name" name="Name" required>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="phone">Phone Number:</label>
+            <input type="tel" id="phone" name="phone" required>
+
+            <label for="address">Address:</label>
+            <input type="text" id="address" name="address" required>
+
+            <label for="city">City:</label>
+            <input type="text" id="city" name="city" required>
+
+            <label for="state">State:</label>
+            <input type="text" id="state" name="state" required>
+
+            <label for="country">Country:</label>
+            <input type="text" id="country" name="country" required>
+
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" required>
+
+            <button type="submit">Register</button>
+            <a href="@Url.Action("Login")" class="register-link">Login </a>
+        }
+    </div>
+</body>
+</html>

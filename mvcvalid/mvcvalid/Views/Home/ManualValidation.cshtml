@@ -1,0 +1,51 @@
+﻿@model mvcvalid.Models.student
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ManualValidation</title>
+</head>
+<body>
+    <div> 
+        @Html.ValidationSummary()
+    </div>
+
+    <div>
+        @using (Html.BeginForm("Validbtps", "Home"))
+        {
+            <h4>Name:@Html.TextBox("Name")</h4>
+            <h4>Name:@Html.ValidationMessage("Name")</h4>
+            <br />
+            <h4>Age:@Html.TextBox("Age")</h4>
+            <h4>Age:@Html.ValidationMessage("Age")</h4>
+            <br />
+            <h4>Address:@Html.TextBox("Address")</h4>
+            <h4>Address:@Html.ValidationMessage("Addess")</h4>
+        <br />
+            <h4>Email:@Html.TextBox("Email")</h4>
+            <h4>Email:@Html.ValidationMessage("Email")</h4>
+        <br />
+            <h4>Password:@Html.TextBox("Password")</h4>
+            <h4>Password:@Html.ValidationMessage("Password")</h4>
+        <br />
+            <h4>ConfirmPassword:@Html.TextBox("ConfirmPassword")</h4>
+            <h4>ConfirmPassword:@Html.ValidationMessage("ConfirmPassword")</h4>
+        <br />
+            <h4>Phone:@Html.TextBox("Phone")</h4>
+            <h4>Phone:@Html.ValidationMessage("Phone")</h4>
+            <br />
+
+            <input type="submit" value="Submit" />
+        }
+
+
+
+
+    </div>
+</body>
+</html>

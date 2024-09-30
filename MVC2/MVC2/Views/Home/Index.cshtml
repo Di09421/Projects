@@ -1,0 +1,46 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+   
+        </head >
+        <body >
+            <!--<div>-->
+                @*<h1 >Login page</h1 >
+
+        <form action="/login" method="post" >
+        <label for="username" > UserName:</label >
+        <input type="text" id="username" name="username" / >
+
+        <label for="password" > Password:</label >
+        <input type="text" id="password" name="password" / >
+
+        <button type="submit" > Submit</button >
+
+
+        </form >*@
+
+                <!--@{
+                    int a = 10;
+                    int b = 20;
+                    int sum = a + b;
+                    int avg = sum/ 2;
+                }
+                <h1>sum is:@sum</h1>
+                <h1>avg is:@avg</h1>
+                <h1>@DateTime.Now</h1>
+                <h1>@DateTime.Today</h1>
+           <h1>cs.dikshadwivedi@@gmail.com</h1>
+            </div>-->
+            <div>
+                <h1>UserName is:@ViewBag.Username</h1>
+                @if(ViewBag.user=="OK")
+                {
+                <h1>Password is:@ViewData["Password"]</h1>
+                }
+            </div>
+        </body >
+        </html >

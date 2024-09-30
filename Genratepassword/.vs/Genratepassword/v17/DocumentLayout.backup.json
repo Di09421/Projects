@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Genratepassword\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2ADF9B-F27A-4CB8-A505-1AB9CF099431}|Genratepassword\\Genratepassword.csproj|d:\\genratepassword\\genratepassword\\password.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DF2ADF9B-F27A-4CB8-A505-1AB9CF099431}|Genratepassword\\Genratepassword.csproj|solutionrelative:genratepassword\\password.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2ADF9B-F27A-4CB8-A505-1AB9CF099431}|Genratepassword\\Genratepassword.csproj|D:\\Genratepassword\\genratepassword\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2ADF9B-F27A-4CB8-A505-1AB9CF099431}|Genratepassword\\Genratepassword.csproj|solutionrelative:genratepassword\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/HP_SQLEXPRESS/password/True/SqlTable/dbo.DETAIL.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2ADF9B-F27A-4CB8-A505-1AB9CF099431}|Genratepassword\\Genratepassword.csproj|D:\\Genratepassword\\genratepassword\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2ADF9B-F27A-4CB8-A505-1AB9CF099431}|Genratepassword\\Genratepassword.csproj|solutionrelative:genratepassword\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2ADF9B-F27A-4CB8-A505-1AB9CF099431}|Genratepassword\\Genratepassword.csproj|D:\\Genratepassword\\genratepassword\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DF2ADF9B-F27A-4CB8-A505-1AB9CF099431}|Genratepassword\\Genratepassword.csproj|solutionrelative:genratepassword\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2ADF9B-F27A-4CB8-A505-1AB9CF099431}|Genratepassword\\Genratepassword.csproj|D:\\Genratepassword\\genratepassword\\password.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2ADF9B-F27A-4CB8-A505-1AB9CF099431}|Genratepassword\\Genratepassword.csproj|solutionrelative:genratepassword\\password.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2ADF9B-F27A-4CB8-A505-1AB9CF099431}|Genratepassword\\Genratepassword.csproj|D:\\Genratepassword\\genratepassword\\submit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2ADF9B-F27A-4CB8-A505-1AB9CF099431}|Genratepassword\\Genratepassword.csproj|solutionrelative:genratepassword\\submit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2ADF9B-F27A-4CB8-A505-1AB9CF099431}|Genratepassword\\Genratepassword.csproj|D:\\Genratepassword\\genratepassword\\submit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DF2ADF9B-F27A-4CB8-A505-1AB9CF099431}|Genratepassword\\Genratepassword.csproj|solutionrelative:genratepassword\\submit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2ADF9B-F27A-4CB8-A505-1AB9CF099431}|Genratepassword\\Genratepassword.csproj|D:\\Genratepassword\\genratepassword\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DF2ADF9B-F27A-4CB8-A505-1AB9CF099431}|Genratepassword\\Genratepassword.csproj|solutionrelative:genratepassword\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2ADF9B-F27A-4CB8-A505-1AB9CF099431}|Genratepassword\\Genratepassword.csproj|D:\\Genratepassword\\genratepassword\\user.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2ADF9B-F27A-4CB8-A505-1AB9CF099431}|Genratepassword\\Genratepassword.csproj|solutionrelative:genratepassword\\user.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2ADF9B-F27A-4CB8-A505-1AB9CF099431}|Genratepassword\\Genratepassword.csproj|D:\\Genratepassword\\genratepassword\\user.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DF2ADF9B-F27A-4CB8-A505-1AB9CF099431}|Genratepassword\\Genratepassword.csproj|solutionrelative:genratepassword\\user.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\Genratepassword\\Genratepassword\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Genratepassword\\Login.aspx.cs",
+              "ToolTip": "D:\\Genratepassword\\Genratepassword\\Login.aspx.cs",
+              "RelativeToolTip": "Genratepassword\\Login.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAADwvyQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T16:46:24.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\Genratepassword\\Genratepassword\\Login.aspx",
+              "RelativeDocumentMoniker": "Genratepassword\\Login.aspx",
+              "ToolTip": "D:\\Genratepassword\\Genratepassword\\Login.aspx",
+              "RelativeToolTip": "Genratepassword\\Login.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-25T16:45:06.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Password.aspx.cs",
+              "DocumentMoniker": "D:\\Genratepassword\\Genratepassword\\Password.aspx.cs",
+              "RelativeDocumentMoniker": "Genratepassword\\Password.aspx.cs",
+              "ToolTip": "D:\\Genratepassword\\Genratepassword\\Password.aspx.cs",
+              "RelativeToolTip": "Genratepassword\\Password.aspx.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T06:10:22.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Password.aspx",
+              "DocumentMoniker": "D:\\Genratepassword\\Genratepassword\\Password.aspx",
+              "RelativeDocumentMoniker": "Genratepassword\\Password.aspx",
+              "ToolTip": "D:\\Genratepassword\\Genratepassword\\Password.aspx",
+              "RelativeToolTip": "Genratepassword\\Password.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-24T06:07:17.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.DETAIL [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/HP_SQLEXPRESS/password/True/SqlTable/dbo.DETAIL.sql",
+              "ToolTip": "dbo.DETAIL [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-25T17:22:42.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "admin.aspx.cs",
+              "DocumentMoniker": "D:\\Genratepassword\\Genratepassword\\admin.aspx.cs",
+              "RelativeDocumentMoniker": "Genratepassword\\admin.aspx.cs",
+              "ToolTip": "D:\\Genratepassword\\Genratepassword\\admin.aspx.cs",
+              "RelativeToolTip": "Genratepassword\\admin.aspx.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA3wBMAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T16:58:22.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Submit.aspx.cs",
+              "DocumentMoniker": "D:\\Genratepassword\\Genratepassword\\Submit.aspx.cs",
+              "RelativeDocumentMoniker": "Genratepassword\\Submit.aspx.cs",
+              "ToolTip": "D:\\Genratepassword\\Genratepassword\\Submit.aspx.cs",
+              "RelativeToolTip": "Genratepassword\\Submit.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T07:10:59.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Submit.aspx",
+              "DocumentMoniker": "D:\\Genratepassword\\Genratepassword\\Submit.aspx",
+              "RelativeDocumentMoniker": "Genratepassword\\Submit.aspx",
+              "ToolTip": "D:\\Genratepassword\\Genratepassword\\Submit.aspx",
+              "RelativeToolTip": "Genratepassword\\Submit.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-24T06:48:47.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "admin.aspx",
+              "DocumentMoniker": "D:\\Genratepassword\\Genratepassword\\admin.aspx",
+              "RelativeDocumentMoniker": "Genratepassword\\admin.aspx",
+              "ToolTip": "D:\\Genratepassword\\Genratepassword\\admin.aspx",
+              "RelativeToolTip": "Genratepassword\\admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-25T16:57:54.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.aspx.cs",
+              "DocumentMoniker": "D:\\Genratepassword\\Genratepassword\\User.aspx.cs",
+              "RelativeDocumentMoniker": "Genratepassword\\User.aspx.cs",
+              "ToolTip": "D:\\Genratepassword\\Genratepassword\\User.aspx.cs",
+              "RelativeToolTip": "Genratepassword\\User.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T07:37:16.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.aspx",
+              "DocumentMoniker": "D:\\Genratepassword\\Genratepassword\\User.aspx",
+              "RelativeDocumentMoniker": "Genratepassword\\User.aspx",
+              "ToolTip": "D:\\Genratepassword\\Genratepassword\\User.aspx",
+              "RelativeToolTip": "Genratepassword\\User.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-24T06:49:02.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

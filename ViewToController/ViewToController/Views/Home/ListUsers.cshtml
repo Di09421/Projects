@@ -1,0 +1,45 @@
+﻿
+@model List<ViewToController.Models.Register>
+@{
+    ViewBag.Title = "List of Users";
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ListUsers</title>
+</head>
+<body>
+    <div>
+        <table border="1">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Phone</th>
+                    <th>City</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var user in Model)
+                {
+                    <tr>
+                        <td>@user.id</td>
+                        <td>@user.Name</td>
+                        <td>@user.Email</td>
+                        <td>@user.Phone</td>
+                        <td>@user.City</td>
+                        <td>
+                            @Html.ActionLink("Edit", "EditProfile", new { id = user.id }) |
+                            @Html.ActionLink("Delete", "DeleteProfile", new { id = user.id })
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

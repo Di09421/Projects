@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WebApplication13\\WebApplication13\\WebForm1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WebApplication17\\WebApplication17\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WebApplication17\\WebApplication17\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Mail\\WebApplication11\\regiestration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Mail\\WebApplication11\\regiestration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\mail2\\WebApplication14\\WebForm1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Mail\\WebApplication11\\D1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Mail\\WebApplication11\\D2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Mail\\WebApplication11\\mail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Mail\\WebApplication11\\mail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "D:\\WebApplication13\\WebApplication13\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "..\\WebApplication13\\WebApplication13\\WebForm1.aspx",
+              "ToolTip": "D:\\WebApplication13\\WebApplication13\\WebForm1.aspx",
+              "RelativeToolTip": "..\\WebApplication13\\WebApplication13\\WebForm1.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-30T07:37:52.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.aspx.cs",
+              "DocumentMoniker": "D:\\WebApplication17\\WebApplication17\\login.aspx.cs",
+              "RelativeDocumentMoniker": "..\\WebApplication17\\WebApplication17\\login.aspx.cs",
+              "ToolTip": "D:\\WebApplication17\\WebApplication17\\login.aspx.cs",
+              "RelativeToolTip": "..\\WebApplication17\\WebApplication17\\login.aspx.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T07:37:33.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.aspx",
+              "DocumentMoniker": "D:\\WebApplication17\\WebApplication17\\login.aspx",
+              "RelativeDocumentMoniker": "..\\WebApplication17\\WebApplication17\\login.aspx",
+              "ToolTip": "D:\\WebApplication17\\WebApplication17\\login.aspx",
+              "RelativeToolTip": "..\\WebApplication17\\WebApplication17\\login.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-30T07:37:24.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "D:\\mail2\\WebApplication14\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "..\\mail2\\WebApplication14\\WebForm1.aspx",
+              "ToolTip": "D:\\mail2\\WebApplication14\\WebForm1.aspx",
+              "RelativeToolTip": "..\\mail2\\WebApplication14\\WebForm1.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-30T07:35:07.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "D1.aspx",
+              "DocumentMoniker": "D:\\Mail\\WebApplication11\\D1.aspx",
+              "RelativeDocumentMoniker": "..\\Mail\\WebApplication11\\D1.aspx",
+              "ToolTip": "D:\\Mail\\WebApplication11\\D1.aspx",
+              "RelativeToolTip": "..\\Mail\\WebApplication11\\D1.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-30T07:33:01.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "D2.aspx",
+              "DocumentMoniker": "D:\\Mail\\WebApplication11\\D2.aspx",
+              "RelativeDocumentMoniker": "..\\Mail\\WebApplication11\\D2.aspx",
+              "ToolTip": "D:\\Mail\\WebApplication11\\D2.aspx",
+              "RelativeToolTip": "..\\Mail\\WebApplication11\\D2.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-30T07:32:56.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "mail.aspx.cs",
+              "DocumentMoniker": "D:\\Mail\\WebApplication11\\mail.aspx.cs",
+              "RelativeDocumentMoniker": "..\\Mail\\WebApplication11\\mail.aspx.cs",
+              "ToolTip": "D:\\Mail\\WebApplication11\\mail.aspx.cs",
+              "RelativeToolTip": "..\\Mail\\WebApplication11\\mail.aspx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T07:32:49.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "mail.aspx",
+              "DocumentMoniker": "D:\\Mail\\WebApplication11\\mail.aspx",
+              "RelativeDocumentMoniker": "..\\Mail\\WebApplication11\\mail.aspx",
+              "ToolTip": "D:\\Mail\\WebApplication11\\mail.aspx",
+              "RelativeToolTip": "..\\Mail\\WebApplication11\\mail.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-30T07:32:42.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "regiestration.aspx.cs",
+              "DocumentMoniker": "D:\\Mail\\WebApplication11\\regiestration.aspx.cs",
+              "RelativeDocumentMoniker": "..\\Mail\\WebApplication11\\regiestration.aspx.cs",
+              "ToolTip": "D:\\Mail\\WebApplication11\\regiestration.aspx.cs",
+              "RelativeToolTip": "..\\Mail\\WebApplication11\\regiestration.aspx.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T07:30:20.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "regiestration.aspx",
+              "DocumentMoniker": "D:\\Mail\\WebApplication11\\regiestration.aspx",
+              "RelativeDocumentMoniker": "..\\Mail\\WebApplication11\\regiestration.aspx",
+              "ToolTip": "D:\\Mail\\WebApplication11\\regiestration.aspx",
+              "RelativeToolTip": "..\\Mail\\WebApplication11\\regiestration.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-30T07:30:00.275Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

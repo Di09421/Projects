@@ -1,0 +1,82 @@
+﻿
+@model ViewToController.Models.Register
+
+@{
+    ViewBag.Title = "Edit Profile";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>EditProfile</title>
+</head>
+<body>
+    <div>
+        <h2>Edit Profile</h2>
+
+        @using (Html.BeginForm("EditProfile", "Home", FormMethod.Post))
+        {
+            @Html.HiddenFor(model => model.id)
+
+            <div>
+                <label>Name:</label>
+                @Html.TextBoxFor(model => model.Name)
+            </div>
+
+            <div>
+                <label>Email:</label>
+                @Html.TextBoxFor(model => model.Email)
+            </div>
+
+            <div>
+                <label>Phone:</label>
+                @Html.TextBoxFor(model => model.Phone)
+            </div>
+
+            <div>
+                <label>Address:</label>
+                @Html.TextBoxFor(model => model.Address)
+            </div>
+
+            <div>
+                <label>City:</label>
+                @Html.TextBoxFor(model => model.City)
+            </div>
+
+            <div>
+                <label>State:</label>
+                @Html.TextBoxFor(model => model.State)
+            </div>
+
+            <div>
+                <label>Country:</label>
+                @Html.TextBoxFor(model => model.Country)
+            </div>
+
+            <div>
+                <label>ZipCode:</label>
+                @Html.TextBoxFor(model => model.ZipCode)
+            </div>
+
+            <div>
+                <label>Password:</label>
+                @Html.PasswordFor(model => model.Password)
+            </div>
+
+            <div>
+                <label>Confirm Password:</label>
+                @Html.PasswordFor(model => model.ConfirmPassword)
+            </div>
+
+            <input type="submit" value="Update" />
+        }
+
+        @if (ViewBag.Message != null)
+        {
+            <p>@ViewBag.Message</p>
+        }
+    </div>
+</body>
+</html>

@@ -1,0 +1,26 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <h1>Welcome to login page</h1>
+        @using (Html.BeginForm("LoginByModel", "ViewToController"))
+        {
+            <label>Enter Your UserName : </label>
+            <input type="text" id="tb1" name="UserName" />
+            <br />
+            <br />
+            <label>Enter Your Password : </label>
+            @Html.TextBox("Password", null, new { id = "tb2" })
+            <br />
+            <br />
+            <input type="submit" value="Login" />
+        }
+    </div>
+</body>
+</html>

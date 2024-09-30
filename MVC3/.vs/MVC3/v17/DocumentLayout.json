@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MVC3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C968B8F-80B8-4600-A25C-563E50DF4FF6}|MVC3\\MVC3.csproj|d:\\mvc3\\mvc3\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C968B8F-80B8-4600-A25C-563E50DF4FF6}|MVC3\\MVC3.csproj|solutionrelative:mvc3\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C968B8F-80B8-4600-A25C-563E50DF4FF6}|MVC3\\MVC3.csproj|D:\\MVC3\\mvc3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C968B8F-80B8-4600-A25C-563E50DF4FF6}|MVC3\\MVC3.csproj|solutionrelative:mvc3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C968B8F-80B8-4600-A25C-563E50DF4FF6}|MVC3\\MVC3.csproj|D:\\MVC3\\mvc3\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C968B8F-80B8-4600-A25C-563E50DF4FF6}|MVC3\\MVC3.csproj|solutionrelative:mvc3\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C968B8F-80B8-4600-A25C-563E50DF4FF6}|MVC3\\MVC3.csproj|D:\\MVC3\\mvc3\\myhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C968B8F-80B8-4600-A25C-563E50DF4FF6}|MVC3\\MVC3.csproj|solutionrelative:mvc3\\myhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C968B8F-80B8-4600-A25C-563E50DF4FF6}|MVC3\\MVC3.csproj|D:\\MVC3\\mvc3\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C968B8F-80B8-4600-A25C-563E50DF4FF6}|MVC3\\MVC3.csproj|solutionrelative:mvc3\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C968B8F-80B8-4600-A25C-563E50DF4FF6}|MVC3\\MVC3.csproj|D:\\MVC3\\mvc3\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C968B8F-80B8-4600-A25C-563E50DF4FF6}|MVC3\\MVC3.csproj|solutionrelative:mvc3\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C968B8F-80B8-4600-A25C-563E50DF4FF6}|MVC3\\MVC3.csproj|D:\\MVC3\\mvc3\\views\\default\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C968B8F-80B8-4600-A25C-563E50DF4FF6}|MVC3\\MVC3.csproj|solutionrelative:mvc3\\views\\default\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C968B8F-80B8-4600-A25C-563E50DF4FF6}|MVC3\\MVC3.csproj|D:\\MVC3\\mvc3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C968B8F-80B8-4600-A25C-563E50DF4FF6}|MVC3\\MVC3.csproj|solutionrelative:mvc3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C968B8F-80B8-4600-A25C-563E50DF4FF6}|MVC3\\MVC3.csproj|D:\\MVC3\\mvc3\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C968B8F-80B8-4600-A25C-563E50DF4FF6}|MVC3\\MVC3.csproj|solutionrelative:mvc3\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\MVC3\\MVC3\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "MVC3\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\MVC3\\MVC3\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "MVC3\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T04:28:37.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyHelper.cs",
+              "DocumentMoniker": "D:\\MVC3\\MVC3\\MyHelper.cs",
+              "RelativeDocumentMoniker": "MVC3\\MyHelper.cs",
+              "ToolTip": "D:\\MVC3\\MVC3\\MyHelper.cs",
+              "RelativeToolTip": "MVC3\\MyHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T05:55:44.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MVC3\\MVC3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\MVC3\\MVC3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T07:40:08.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MVC3\\MVC3\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC3\\Views\\Default\\Index.cshtml",
+              "ToolTip": "D:\\MVC3\\MVC3\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "MVC3\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAFUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T06:27:29.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "D:\\MVC3\\MVC3\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "MVC3\\Controllers\\DefaultController.cs",
+              "ToolTip": "D:\\MVC3\\MVC3\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "MVC3\\Controllers\\DefaultController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:27:12.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\MVC3\\MVC3\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "MVC3\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\MVC3\\MVC3\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "MVC3\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T05:45:45.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\MVC3\\MVC3\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "MVC3\\Models\\Student.cs",
+              "ToolTip": "D:\\MVC3\\MVC3\\Models\\Student.cs",
+              "RelativeToolTip": "MVC3\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T05:35:35.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\MVC3\\MVC3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC3\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\MVC3\\MVC3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC3\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T05:33:08.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\MVC3\\MVC3\\Views\\Default\\About.cshtml",
+              "RelativeDocumentMoniker": "MVC3\\Views\\Default\\About.cshtml",
+              "ToolTip": "D:\\MVC3\\MVC3\\Views\\Default\\About.cshtml",
+              "RelativeToolTip": "MVC3\\Views\\Default\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T04:32:05.305Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

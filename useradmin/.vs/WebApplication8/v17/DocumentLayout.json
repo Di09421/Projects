@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\csdik\\source\\repos\\WebApplication8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E2D8A0F-A397-4F99-B61B-B4F743FA7D3F}|WebApplication8\\WebApplication8.csproj|c:\\users\\csdik\\source\\repos\\webapplication8\\webapplication8\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E2D8A0F-A397-4F99-B61B-B4F743FA7D3F}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E2D8A0F-A397-4F99-B61B-B4F743FA7D3F}|WebApplication8\\WebApplication8.csproj|C:\\Users\\csdik\\source\\repos\\WebApplication8\\webapplication8\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6E2D8A0F-A397-4F99-B61B-B4F743FA7D3F}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E2D8A0F-A397-4F99-B61B-B4F743FA7D3F}|WebApplication8\\WebApplication8.csproj|C:\\Users\\csdik\\source\\repos\\WebApplication8\\webapplication8\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6E2D8A0F-A397-4F99-B61B-B4F743FA7D3F}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "admin.aspx",
+              "DocumentMoniker": "C:\\Users\\csdik\\source\\repos\\WebApplication8\\WebApplication8\\admin.aspx",
+              "RelativeDocumentMoniker": "WebApplication8\\admin.aspx",
+              "ToolTip": "C:\\Users\\csdik\\source\\repos\\WebApplication8\\WebApplication8\\admin.aspx",
+              "RelativeToolTip": "WebApplication8\\admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-27T16:59:46.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\csdik\\source\\repos\\WebApplication8\\WebApplication8\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\csdik\\source\\repos\\WebApplication8\\WebApplication8\\WebForm1.aspx.cs",
+              "RelativeToolTip": "WebApplication8\\WebForm1.aspx.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:28:22.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\csdik\\source\\repos\\WebApplication8\\WebApplication8\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "WebApplication8\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\csdik\\source\\repos\\WebApplication8\\WebApplication8\\WebForm1.aspx",
+              "RelativeToolTip": "WebApplication8\\WebForm1.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-27T15:26:16.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

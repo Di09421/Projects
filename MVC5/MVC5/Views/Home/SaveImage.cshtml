@@ -1,0 +1,32 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Save Image</title>
+</head>
+<body>
+    <div>
+        <form action="/Home/SaveImage" method="post" enctype="multipart/form-data">
+            Name: @Html.TextBox("Name")<br /><br />
+            <input type="file" name="file" id="Img" />
+            <input type="submit" value="Save Image" />
+        </form>
+        @if (ViewBag.errormsg != null)
+        {
+            <p style="color: red;">@ViewBag.errormsg</p>
+        }
+        @if (ViewBag.successmsg != null)
+        {
+            <p style="color: green;">@ViewBag.successmsg</p>
+        }
+    </div>
+    <div>
+        <img src="~/Content/Img/@ViewBag.ImgName" height="300" width="500" alt="Please check your internet connection" />
+    </div>
+</body>
+</html>

@@ -1,0 +1,50 @@
+﻿
+@model MVC3.Models.Student
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>About</title>
+</head>
+<body>
+    <div>
+        @Html.TextBoxFor(x => x.Name)<br />
+        @Html.TextBoxFor(x => x.Age)<br />
+        @Html.TextBoxFor(x => x.Phone)<br />
+        @Html.TextBoxFor(x => x.IsPass)<br />
+        <br />
+        <br />
+
+        @Html.DropDownList("dd1", new SelectList(new string[] { "c#", "java", "php", "c" }), "--select programming lanuguages--")
+
+        <br />
+        <br />
+        <h1>@Html.DisplayName("Name")   :@Html.DisplayText("Name")</h1>
+        <h1>@Html.DisplayName("Age")   :@Html.DisplayText("Age")</h1>
+        <br />
+        <br />
+        <h1>@Html.DisplayNameFor(x => x.Name)   :@Html.DisplayTextFor(x => x.Name)</h1>
+        <h1>@Html.DisplayNameFor(x => x.Age)   :@Html.DisplayTextFor(x => x.Age)</h1>
+        <br />
+        <br />
+        @Html.DisplayForModel()
+        <br />
+        <br />
+        <h1>@Html.Display("Phone")</h1>
+        <h1>@Html.DisplayFor(x => x.Phone)</h1>
+        <br />
+        <br />
+        @Html.Editor("Name")
+        @Html.EditorFor(x => x.Name)
+        @Html.EditorForModel()
+
+        <br />
+        <br />
+        @Html.Button("click me")
+        @Html.Image("Image", "https://imgs.search.brave.com/PjvOq5906l8l963VnIhXjEUFahRUd-ItjiCEwMAcp54/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA3LzY0LzAxLzMz/LzM2MF9GXzc2NDAx/MzMwN19RQ3pCZTFQ/UlE2RjJLQUpnU2NB/dkNsUWk4QkV2V0li/di5qcGc","Girl")
+
+
+    </div>
+</body>
+</html>

@@ -1,0 +1,7 @@
+D:\Vote\Vote\bin\Debug\Vote.exe.config
+D:\Vote\Vote\bin\Debug\Vote.exe
+D:\Vote\Vote\bin\Debug\Vote.pdb
+D:\Vote\Vote\obj\Debug\Vote.csproj.AssemblyReference.cache
+D:\Vote\Vote\obj\Debug\Vote.csproj.CoreCompileInputs.cache
+D:\Vote\Vote\obj\Debug\Vote.exe
+D:\Vote\Vote\obj\Debug\Vote.pdb

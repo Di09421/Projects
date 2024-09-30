@@ -1,0 +1,10 @@
+C:\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\ConsoleApp3\ConsoleApp3\bin\Debug\ClassLibrary1.dll
+C:\ConsoleApp3\ConsoleApp3\bin\Debug\ClassLibrary1.pdb
+C:\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleA.88426B56.Up2Date
+C:\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

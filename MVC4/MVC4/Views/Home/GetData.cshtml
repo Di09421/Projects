@@ -1,0 +1,49 @@
+﻿@model MVC4.Btpsmvc
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>GetData</title>
+</head>
+<body>
+    <div>
+        <h4>Btpsmvc</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Name)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Age)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Age)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Phone)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Phone)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Back to List", "SelectAllData")
+    </p>
+</body>
+</html>

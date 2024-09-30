@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\pwd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{403CE656-B16E-4338-896B-EBC5FAC56893}|pwd\\pwd.csproj|D:\\pwd\\pwd\\changepwd.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{403CE656-B16E-4338-896B-EBC5FAC56893}|pwd\\pwd.csproj|solutionrelative:pwd\\changepwd.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{403CE656-B16E-4338-896B-EBC5FAC56893}|pwd\\pwd.csproj|D:\\pwd\\pwd\\changepwd.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{403CE656-B16E-4338-896B-EBC5FAC56893}|pwd\\pwd.csproj|solutionrelative:pwd\\changepwd.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{403CE656-B16E-4338-896B-EBC5FAC56893}|pwd\\pwd.csproj|D:\\pwd\\pwd\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{403CE656-B16E-4338-896B-EBC5FAC56893}|pwd\\pwd.csproj|solutionrelative:pwd\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{403CE656-B16E-4338-896B-EBC5FAC56893}|pwd\\pwd.csproj|d:\\pwd\\pwd\\user.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{403CE656-B16E-4338-896B-EBC5FAC56893}|pwd\\pwd.csproj|solutionrelative:pwd\\user.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{403CE656-B16E-4338-896B-EBC5FAC56893}|pwd\\pwd.csproj|D:\\pwd\\pwd\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{403CE656-B16E-4338-896B-EBC5FAC56893}|pwd\\pwd.csproj|solutionrelative:pwd\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{403CE656-B16E-4338-896B-EBC5FAC56893}|pwd\\pwd.csproj|D:\\pwd\\pwd\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{403CE656-B16E-4338-896B-EBC5FAC56893}|pwd\\pwd.csproj|solutionrelative:pwd\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{403CE656-B16E-4338-896B-EBC5FAC56893}|pwd\\pwd.csproj|D:\\pwd\\pwd\\submit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{403CE656-B16E-4338-896B-EBC5FAC56893}|pwd\\pwd.csproj|solutionrelative:pwd\\submit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{403CE656-B16E-4338-896B-EBC5FAC56893}|pwd\\pwd.csproj|D:\\pwd\\pwd\\submit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{403CE656-B16E-4338-896B-EBC5FAC56893}|pwd\\pwd.csproj|solutionrelative:pwd\\submit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{403CE656-B16E-4338-896B-EBC5FAC56893}|pwd\\pwd.csproj|D:\\pwd\\pwd\\registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{403CE656-B16E-4338-896B-EBC5FAC56893}|pwd\\pwd.csproj|solutionrelative:pwd\\registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{403CE656-B16E-4338-896B-EBC5FAC56893}|pwd\\pwd.csproj|D:\\pwd\\pwd\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{403CE656-B16E-4338-896B-EBC5FAC56893}|pwd\\pwd.csproj|solutionrelative:pwd\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/HP_SQLEXPRESS/simba/True/SqlTable/dbo.simba.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\pwd\\pwd\\data.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pwd\\data.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\pwd\\pwd\\data.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pwd\\data.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.aspx",
+              "DocumentMoniker": "D:\\pwd\\pwd\\login.aspx",
+              "RelativeDocumentMoniker": "pwd\\login.aspx",
+              "ToolTip": "D:\\pwd\\pwd\\login.aspx",
+              "RelativeToolTip": "pwd\\login.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-01T16:32:44.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Registration.aspx",
+              "DocumentMoniker": "D:\\pwd\\pwd\\Registration.aspx",
+              "RelativeDocumentMoniker": "pwd\\Registration.aspx",
+              "ToolTip": "D:\\pwd\\pwd\\Registration.aspx",
+              "RelativeToolTip": "pwd\\Registration.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-01T16:30:00.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "changepwd.aspx",
+              "DocumentMoniker": "D:\\pwd\\pwd\\changepwd.aspx",
+              "RelativeDocumentMoniker": "pwd\\changepwd.aspx",
+              "ToolTip": "D:\\pwd\\pwd\\changepwd.aspx",
+              "RelativeToolTip": "pwd\\changepwd.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-01T16:33:55.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "changepwd.aspx.cs",
+              "DocumentMoniker": "D:\\pwd\\pwd\\changepwd.aspx.cs",
+              "RelativeDocumentMoniker": "pwd\\changepwd.aspx.cs",
+              "ToolTip": "D:\\pwd\\pwd\\changepwd.aspx.cs",
+              "RelativeToolTip": "pwd\\changepwd.aspx.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAADIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T16:34:09.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "login.aspx.cs",
+              "DocumentMoniker": "D:\\pwd\\pwd\\login.aspx.cs",
+              "RelativeDocumentMoniker": "pwd\\login.aspx.cs",
+              "ToolTip": "D:\\pwd\\pwd\\login.aspx.cs",
+              "RelativeToolTip": "pwd\\login.aspx.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T16:32:54.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "user.aspx",
+              "DocumentMoniker": "D:\\pwd\\pwd\\user.aspx",
+              "RelativeDocumentMoniker": "pwd\\user.aspx",
+              "ToolTip": "D:\\pwd\\pwd\\user.aspx",
+              "RelativeToolTip": "pwd\\user.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-01T16:34:27.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "submit.aspx.cs",
+              "DocumentMoniker": "D:\\pwd\\pwd\\submit.aspx.cs",
+              "RelativeDocumentMoniker": "pwd\\submit.aspx.cs",
+              "ToolTip": "D:\\pwd\\pwd\\submit.aspx.cs",
+              "RelativeToolTip": "pwd\\submit.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T08:32:57.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "submit.aspx",
+              "DocumentMoniker": "D:\\pwd\\pwd\\submit.aspx",
+              "RelativeDocumentMoniker": "pwd\\submit.aspx",
+              "ToolTip": "D:\\pwd\\pwd\\submit.aspx",
+              "RelativeToolTip": "pwd\\submit.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-30T08:27:36.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Registration.aspx.cs",
+              "DocumentMoniker": "D:\\pwd\\pwd\\Registration.aspx.cs",
+              "RelativeDocumentMoniker": "pwd\\Registration.aspx.cs",
+              "ToolTip": "D:\\pwd\\pwd\\Registration.aspx.cs",
+              "RelativeToolTip": "pwd\\Registration.aspx.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T16:30:35.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\pwd\\pwd\\Web.config",
+              "RelativeDocumentMoniker": "pwd\\Web.config",
+              "ToolTip": "D:\\pwd\\pwd\\Web.config",
+              "RelativeToolTip": "pwd\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-31T05:38:20.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.simba [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/HP_SQLEXPRESS/simba/True/SqlTable/dbo.simba.sql",
+              "ToolTip": "dbo.simba [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-30T10:04:35.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "data.aspx",
+              "DocumentMoniker": "D:\\pwd\\pwd\\data.aspx",
+              "RelativeDocumentMoniker": "pwd\\data.aspx",
+              "ToolTip": "D:\\pwd\\pwd\\data.aspx",
+              "RelativeToolTip": "pwd\\data.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-30T09:21:26.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "data.aspx.cs",
+              "DocumentMoniker": "D:\\pwd\\pwd\\data.aspx.cs",
+              "RelativeDocumentMoniker": "pwd\\data.aspx.cs",
+              "ToolTip": "D:\\pwd\\pwd\\data.aspx.cs",
+              "RelativeToolTip": "pwd\\data.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T09:30:43.232Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

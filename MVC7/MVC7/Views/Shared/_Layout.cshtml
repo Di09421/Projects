@@ -1,0 +1,27 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <div>
+        <div style="background-color: Black; color: white; padding: 20px; text-align: center;">
+            <h1>Header @RenderSection("HeaderText",required:false)</h1>
+        </div>
+        <div>
+            @RenderBody()
+        </div>
+        <div style="background-color: Black; color: white; padding: 20px; text-align: center;">
+            <h1>Footer  @RenderSection("AboutText", required:false)</h1>
+        </div>
+    </div>
+</body>
+</html>

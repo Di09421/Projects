@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="registrationModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="basic_details">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="100" />
+    <Property Name="address" Type="varchar" MaxLength="255" />
+    <Property Name="email" Type="varchar" MaxLength="100" />
+    <Property Name="mobile_no" Type="varchar" MaxLength="20" />
+    <Property Name="city" Type="varchar" MaxLength="50" />
+    <Property Name="state" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="login">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="username" Type="nvarchar" MaxLength="50" />
+    <Property Name="password" Type="nvarchar" MaxLength="50" />
+    <Property Name="basic_details_id" Type="int" />
+  </EntityType>
+  <Association Name="FK__login__basic_det__5CD6CB2B">
+    <End Role="basic_details" Type="Self.basic_details" Multiplicity="0..1" />
+    <End Role="login" Type="Self.login" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="basic_details">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="login">
+        <PropertyRef Name="basic_details_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="registrationModelStoreContainer">
+    <EntitySet Name="basic_details" EntityType="Self.basic_details" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="login" EntityType="Self.login" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__login__basic_det__5CD6CB2B" Association="Self.FK__login__basic_det__5CD6CB2B">
+      <End Role="basic_details" EntitySet="basic_details" />
+      <End Role="login" EntitySet="login" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

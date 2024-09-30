@@ -1,0 +1,24 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>DataInsert</title>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm())
+        {
+            <label>Name</label>@Html.TextBox("Name")<br />
+            <label>Age</label>@Html.TextBox("Age")<br />
+            <label>Phone</label>@Html.TextBox("Phone")<br />
+            <input type="Submit" value="Login" />
+        }
+    </div>
+</body>
+</html>

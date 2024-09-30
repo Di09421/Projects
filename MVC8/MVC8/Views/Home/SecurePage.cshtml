@@ -1,0 +1,27 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>SecurePage</title>
+</head>
+<body>
+    <div>
+        <h2>Welcome , @ViewBag.UserEmail,to the secure page!</h2>
+        @*@Html.ActionLink("Logout", "Logout", "Home")*@
+        @if (User.Identity.IsAuthenticated)
+        {
+            @Html.ActionLink("Logout", "Logout", "Home")
+        }
+        else
+        {
+            @Html.ActionLink("Login", "Login", "Home")
+        }
+    </div>
+</body>
+</html>

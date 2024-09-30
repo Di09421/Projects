@@ -1,0 +1,54 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>InlineHtmlHelper</title>
+</head>
+<body>
+    <div>
+        @helper Heading(string name)
+        {
+            <h1> Hello , @name</h1>
+        }
+
+
+        @helper Image(string src, string alt)
+        {
+            <img src="@src" alt="@alt" height="300" width="500" />
+        }
+
+        @helper PrintList(List<string> listItems)
+        {<ul>
+                @foreach (var item in listItems)
+                {
+
+                    <li>@item</li>
+                }
+            </ul>
+        }
+    </div>
+    <div>
+        @Heading("Btps")
+        @{
+            List<string> list = new List<string>()
+            {
+                "Abhay","Aman","Anuj","Ajay"
+            };
+        }
+    </div>
+    <div>
+        @PrintList(list)
+    </div>
+    <div>
+        @Image("https://imgs.search.brave.com/KuJurDAE_VAxF3UOjFuLHUNPPzH9UgPRFdAOyNbmJlc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvZmVhdHVy/ZWQvY2FydG9vbi1w/aWN0dXJlcy1xM2h4/a2swZ213NnZuaXZq/LmpwZw", "cartoon iamge")
+    </div>
+
+</body>
+</html>
+

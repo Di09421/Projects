@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="registrationModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="basic_details">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="address" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="email" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="mobile_no" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="city" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="state" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="logins" Relationship="Self.FK__login__basic_det__5CD6CB2B" FromRole="basic_details" ToRole="login" />
+  </EntityType>
+  <EntityType Name="login">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="username" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="basic_details_id" Type="Int32" />
+    <NavigationProperty Name="basic_details" Relationship="Self.FK__login__basic_det__5CD6CB2B" FromRole="login" ToRole="basic_details" />
+  </EntityType>
+  <Association Name="FK__login__basic_det__5CD6CB2B">
+    <End Role="basic_details" Type="Self.basic_details" Multiplicity="0..1" />
+    <End Role="login" Type="Self.login" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="basic_details">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="login">
+        <PropertyRef Name="basic_details_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="registrationEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="basic_details" EntityType="Self.basic_details" />
+    <EntitySet Name="logins" EntityType="Self.login" />
+    <AssociationSet Name="FK__login__basic_det__5CD6CB2B" Association="Self.FK__login__basic_det__5CD6CB2B">
+      <End Role="basic_details" EntitySet="basic_details" />
+      <End Role="login" EntitySet="logins" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

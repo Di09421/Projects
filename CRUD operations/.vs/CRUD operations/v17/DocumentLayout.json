@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CRUD operations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EADABC4-34AE-48E4-ADD9-7A8EE1D0BE8C}|CRUD operations\\CRUD operations.csproj|d:\\crud operations\\crud operations\\crud.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EADABC4-34AE-48E4-ADD9-7A8EE1D0BE8C}|CRUD operations\\CRUD operations.csproj|solutionrelative:crud operations\\crud.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/HP_SQLEXPRESS/crud/True/SqlTable/dbo.student.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EADABC4-34AE-48E4-ADD9-7A8EE1D0BE8C}|CRUD operations\\CRUD operations.csproj|D:\\CRUD operations\\crud operations\\crud.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0EADABC4-34AE-48E4-ADD9-7A8EE1D0BE8C}|CRUD operations\\CRUD operations.csproj|solutionrelative:crud operations\\crud.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.student [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/HP_SQLEXPRESS/crud/True/SqlTable/dbo.student.sql",
+              "ToolTip": "dbo.student [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-27T09:04:40.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Crud.aspx.cs",
+              "DocumentMoniker": "D:\\CRUD operations\\CRUD operations\\Crud.aspx.cs",
+              "RelativeDocumentMoniker": "CRUD operations\\Crud.aspx.cs",
+              "ToolTip": "D:\\CRUD operations\\CRUD operations\\Crud.aspx.cs",
+              "RelativeToolTip": "CRUD operations\\Crud.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T04:50:16.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Crud.aspx",
+              "DocumentMoniker": "D:\\CRUD operations\\CRUD operations\\Crud.aspx",
+              "RelativeDocumentMoniker": "CRUD operations\\Crud.aspx",
+              "ToolTip": "D:\\CRUD operations\\CRUD operations\\Crud.aspx",
+              "RelativeToolTip": "CRUD operations\\Crud.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-24T04:31:41.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

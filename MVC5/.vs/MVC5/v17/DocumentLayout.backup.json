@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MVC5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C43ED6EB-5858-44B1-A5A4-C6C380A1BB50}|MVC5\\MVC5.csproj|d:\\mvc5\\mvc5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43ED6EB-5858-44B1-A5A4-C6C380A1BB50}|MVC5\\MVC5.csproj|solutionrelative:mvc5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43ED6EB-5858-44B1-A5A4-C6C380A1BB50}|MVC5\\MVC5.csproj|D:\\MVC5\\mvc5\\insert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43ED6EB-5858-44B1-A5A4-C6C380A1BB50}|MVC5\\MVC5.csproj|solutionrelative:mvc5\\insert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43ED6EB-5858-44B1-A5A4-C6C380A1BB50}|MVC5\\MVC5.csproj|D:\\MVC5\\mvc5\\models\\img.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43ED6EB-5858-44B1-A5A4-C6C380A1BB50}|MVC5\\MVC5.csproj|solutionrelative:mvc5\\models\\img.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43ED6EB-5858-44B1-A5A4-C6C380A1BB50}|MVC5\\MVC5.csproj|D:\\MVC5\\mvc5\\views\\home\\saveimage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C43ED6EB-5858-44B1-A5A4-C6C380A1BB50}|MVC5\\MVC5.csproj|solutionrelative:mvc5\\views\\home\\saveimage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Insert.cs",
+              "DocumentMoniker": "D:\\MVC5\\MVC5\\Insert.cs",
+              "RelativeDocumentMoniker": "MVC5\\Insert.cs",
+              "ToolTip": "D:\\MVC5\\MVC5\\Insert.cs",
+              "RelativeToolTip": "MVC5\\Insert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T07:48:57.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Img.cs",
+              "DocumentMoniker": "D:\\MVC5\\MVC5\\Models\\Img.cs",
+              "RelativeDocumentMoniker": "MVC5\\Models\\Img.cs",
+              "ToolTip": "D:\\MVC5\\MVC5\\Models\\Img.cs",
+              "RelativeToolTip": "MVC5\\Models\\Img.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T07:00:28.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaveImage.cshtml",
+              "DocumentMoniker": "D:\\MVC5\\MVC5\\Views\\Home\\SaveImage.cshtml",
+              "RelativeDocumentMoniker": "MVC5\\Views\\Home\\SaveImage.cshtml",
+              "ToolTip": "D:\\MVC5\\MVC5\\Views\\Home\\SaveImage.cshtml",
+              "RelativeToolTip": "MVC5\\Views\\Home\\SaveImage.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T06:52:08.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\MVC5\\MVC5\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC5\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\MVC5\\MVC5\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC5\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T06:51:46.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

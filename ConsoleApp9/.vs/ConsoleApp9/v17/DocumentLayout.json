@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ConsoleApp9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{861ED558-1D22-440C-A9F4-437720A6A7C0}|ConsoleApp9\\ConsoleApp9.csproj|c:\\consoleapp9\\consoleapp9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861ED558-1D22-440C-A9F4-437720A6A7C0}|ConsoleApp9\\ConsoleApp9.csproj|solutionrelative:consoleapp9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ConsoleApp9\\ConsoleApp9\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp9\\Program.cs",
+              "ToolTip": "C:\\ConsoleApp9\\ConsoleApp9\\Program.cs",
+              "RelativeToolTip": "ConsoleApp9\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T05:51:28.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

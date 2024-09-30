@@ -1,0 +1,51 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <style>
+        .text-box-class {
+            width: 200px;
+            padding: 5px;
+        }
+
+        .action-link-class {
+            color: blue;
+            text-decoration: none;
+        }
+
+        .checkbox-class {
+            margin-left: 10px;
+        }
+
+        .password-class {
+            width: 200px;
+            padding: 5px;
+        }
+
+    </style>
+</head>
+<body>
+    <div>
+      Name is: @Html.TextBox("TextBox", null, new { id = "tb1", @class = "text-box-class" })
+        <br />
+        <br />
+        @Html.ActionLink("About us", "About", null, new { @class = "action-link-class" })
+        <br />
+        <br />
+        @Html.ActionLink("Index us", "Index", "Default", new { @class = "action-link-class" })
+        <br />
+        <br />
+    CheckBos is: @Html.CheckBox("isActive", true, new { @class = "checkbox-class" })
+        <br />
+        <br />
+      Password is:  @Html.Password("password", new { @class = "password-class" })
+    </div>
+</body>
+</html>

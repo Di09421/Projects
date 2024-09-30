@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\csdik\\source\\repos\\WebApplication9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{703D1225-F170-49D8-8191-2FA4F73320BC}|WebApplication9\\WebApplication9.csproj|c:\\users\\csdik\\source\\repos\\webapplication9\\webapplication9\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{703D1225-F170-49D8-8191-2FA4F73320BC}|WebApplication9\\WebApplication9.csproj|solutionrelative:webapplication9\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{703D1225-F170-49D8-8191-2FA4F73320BC}|WebApplication9\\WebApplication9.csproj|C:\\Users\\csdik\\source\\repos\\WebApplication9\\webapplication9\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{703D1225-F170-49D8-8191-2FA4F73320BC}|WebApplication9\\WebApplication9.csproj|solutionrelative:webapplication9\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\csdik\\source\\repos\\WebApplication9\\WebApplication9\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "WebApplication9\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\csdik\\source\\repos\\WebApplication9\\WebApplication9\\WebForm1.aspx",
+              "RelativeToolTip": "WebApplication9\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-29T08:04:03.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\csdik\\source\\repos\\WebApplication9\\WebApplication9\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication9\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\csdik\\source\\repos\\WebApplication9\\WebApplication9\\WebForm1.aspx.cs",
+              "RelativeToolTip": "WebApplication9\\WebForm1.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAywCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:07:56.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

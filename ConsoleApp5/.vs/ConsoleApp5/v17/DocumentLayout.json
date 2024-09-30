@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ConsoleApp5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1B946B-1370-4FD5-964D-CD65FF7DE951}|ConsoleApp5\\ConsoleApp5.csproj|c:\\consoleapp5\\consoleapp5\\cal1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1B946B-1370-4FD5-964D-CD65FF7DE951}|ConsoleApp5\\ConsoleApp5.csproj|solutionrelative:consoleapp5\\cal1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1B946B-1370-4FD5-964D-CD65FF7DE951}|ConsoleApp5\\ConsoleApp5.csproj|c:\\consoleapp5\\consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1B946B-1370-4FD5-964D-CD65FF7DE951}|ConsoleApp5\\ConsoleApp5.csproj|solutionrelative:consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1B946B-1370-4FD5-964D-CD65FF7DE951}|ConsoleApp5\\ConsoleApp5.csproj|c:\\consoleapp5\\consoleapp5\\cal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1B946B-1370-4FD5-964D-CD65FF7DE951}|ConsoleApp5\\ConsoleApp5.csproj|solutionrelative:consoleapp5\\cal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cal1.cs",
+              "DocumentMoniker": "C:\\ConsoleApp5\\ConsoleApp5\\Cal1.cs",
+              "RelativeDocumentMoniker": "ConsoleApp5\\Cal1.cs",
+              "ToolTip": "C:\\ConsoleApp5\\ConsoleApp5\\Cal1.cs",
+              "RelativeToolTip": "ConsoleApp5\\Cal1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:14:19.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cal.cs",
+              "DocumentMoniker": "C:\\ConsoleApp5\\ConsoleApp5\\Cal.cs",
+              "RelativeDocumentMoniker": "ConsoleApp5\\Cal.cs",
+              "ToolTip": "C:\\ConsoleApp5\\ConsoleApp5\\Cal.cs",
+              "RelativeToolTip": "ConsoleApp5\\Cal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:11:20.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ConsoleApp5\\ConsoleApp5\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp5\\Program.cs",
+              "ToolTip": "C:\\ConsoleApp5\\ConsoleApp5\\Program.cs",
+              "RelativeToolTip": "ConsoleApp5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:11:05.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

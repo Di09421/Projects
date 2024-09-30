@@ -1,0 +1,25 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm("Index", "Home"))
+        {
+            <label>Name </label> @Html.TextBox("Name")<br />
+            <label>Age </label> @Html.TextBox("Age")<br />
+            <label>Phone </label> @Html.TextBox("Phone")<br />
+            <input type="submit" value="InsertData" />
+
+            @Html.ActionLink("Go to List", "SelectAllData")
+        }
+    </div>
+</body>
+</html>

@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\csdik\\source\\repos\\WebApplication10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15B82E9C-0157-405C-A496-D47C815C8E2B}|WebApplication10\\WebApplication10.csproj|c:\\users\\csdik\\source\\repos\\webapplication10\\webapplication10\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B82E9C-0157-405C-A496-D47C815C8E2B}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B82E9C-0157-405C-A496-D47C815C8E2B}|WebApplication10\\WebApplication10.csproj|C:\\Users\\csdik\\source\\repos\\WebApplication10\\webapplication10\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{15B82E9C-0157-405C-A496-D47C815C8E2B}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/HP_SQLEXPRESS/show/True/SqlTable/dbo.data.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.data [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/HP_SQLEXPRESS/show/True/SqlTable/dbo.data.sql",
+              "ToolTip": "dbo.data [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-30T06:36:05.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\csdik\\source\\repos\\WebApplication10\\WebApplication10\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication10\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\csdik\\source\\repos\\WebApplication10\\WebApplication10\\WebForm1.aspx.cs",
+              "RelativeToolTip": "WebApplication10\\WebForm1.aspx.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAUwEAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:46:08.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\csdik\\source\\repos\\WebApplication10\\WebApplication10\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "WebApplication10\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\csdik\\source\\repos\\WebApplication10\\WebApplication10\\WebForm1.aspx",
+              "RelativeToolTip": "WebApplication10\\WebForm1.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-29T08:37:03.63Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

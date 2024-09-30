@@ -1,0 +1,54 @@
+﻿
+@model ViewToController.Models.Register
+
+@{
+    ViewBag.Title = "Delete Profile";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>DeleteProfile</title>
+</head>
+<body>
+    <div>
+        <h2>Delete Profile</h2>
+
+        <p>Are you sure you want to delete your profile?</p>
+
+        @using (Html.BeginForm("DeleteProfile", "Home", FormMethod.Post))
+        {
+            @Html.HiddenFor(model => model.id)
+
+            <div>
+                <label>Name:</label>
+                @Html.DisplayFor(model => model.Name)
+            </div>
+
+            <div>
+                <label>Email:</label>
+                @Html.DisplayFor(model => model.Email)
+            </div>
+
+            <div>
+                <label>Phone:</label>
+                @Html.DisplayFor(model => model.Phone)
+            </div>
+
+            <div>
+                <label>Address:</label>
+                @Html.DisplayFor(model => model.Address)
+            </div>
+
+            <input type="submit" value="Delete" />
+        }
+
+        @if (ViewBag.Message != null)
+        {
+            <p>@ViewBag.Message</p>
+        }
+    </div>
+</body>
+</html>

@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Practicesection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{623D7FB7-D103-4736-89D6-17DD94584B38}|Practicesection\\Practicesection.csproj|d:\\practicesection\\practicesection\\first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623D7FB7-D103-4736-89D6-17DD94584B38}|Practicesection\\Practicesection.csproj|solutionrelative:practicesection\\first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623D7FB7-D103-4736-89D6-17DD94584B38}|Practicesection\\Practicesection.csproj|d:\\practicesection\\practicesection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623D7FB7-D103-4736-89D6-17DD94584B38}|Practicesection\\Practicesection.csproj|solutionrelative:practicesection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Practicesection||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623D7FB7-D103-4736-89D6-17DD94584B38}|Practicesection\\Practicesection.csproj|d:\\practicesection\\practicesection\\string.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623D7FB7-D103-4736-89D6-17DD94584B38}|Practicesection\\Practicesection.csproj|solutionrelative:practicesection\\string.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623D7FB7-D103-4736-89D6-17DD94584B38}|Practicesection\\Practicesection.csproj|d:\\practicesection\\practicesection\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "first.cs",
+              "DocumentMoniker": "D:\\Practicesection\\Practicesection\\first.cs",
+              "RelativeDocumentMoniker": "Practicesection\\first.cs",
+              "ToolTip": "D:\\Practicesection\\Practicesection\\first.cs*",
+              "RelativeToolTip": "Practicesection\\first.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:17:44.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Practicesection",
+              "DocumentMoniker": "D:\\Practicesection\\Practicesection\\Practicesection.csproj",
+              "RelativeDocumentMoniker": "Practicesection\\Practicesection.csproj",
+              "ToolTip": "D:\\Practicesection\\Practicesection\\Practicesection.csproj",
+              "RelativeToolTip": "Practicesection\\Practicesection.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-23T05:09:42.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "String.cs",
+              "DocumentMoniker": "D:\\Practicesection\\Practicesection\\String.cs",
+              "RelativeDocumentMoniker": "Practicesection\\String.cs",
+              "ToolTip": "D:\\Practicesection\\Practicesection\\String.cs",
+              "RelativeToolTip": "Practicesection\\String.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T04:15:38.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Practicesection\\Practicesection\\Program.cs",
+              "RelativeDocumentMoniker": "Practicesection\\Program.cs",
+              "ToolTip": "D:\\Practicesection\\Practicesection\\Program.cs",
+              "RelativeToolTip": "Practicesection\\Program.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAgwD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T06:48:00.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

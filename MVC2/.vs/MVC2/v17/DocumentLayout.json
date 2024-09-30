@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MVC2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41552E9D-E2B2-40E4-8322-822EA9AD7271}|MVC2\\MVC2.csproj|D:\\MVC2\\mvc2\\controllers\\hometcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41552E9D-E2B2-40E4-8322-822EA9AD7271}|MVC2\\MVC2.csproj|solutionrelative:mvc2\\controllers\\hometcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41552E9D-E2B2-40E4-8322-822EA9AD7271}|MVC2\\MVC2.csproj|D:\\MVC2\\mvc2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41552E9D-E2B2-40E4-8322-822EA9AD7271}|MVC2\\MVC2.csproj|solutionrelative:mvc2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41552E9D-E2B2-40E4-8322-822EA9AD7271}|MVC2\\MVC2.csproj|d:\\mvc2\\mvc2\\views\\homet\\inlinehtmlhelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41552E9D-E2B2-40E4-8322-822EA9AD7271}|MVC2\\MVC2.csproj|solutionrelative:mvc2\\views\\homet\\inlinehtmlhelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41552E9D-E2B2-40E4-8322-822EA9AD7271}|MVC2\\MVC2.csproj|D:\\MVC2\\mvc2\\views\\homet\\studentinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41552E9D-E2B2-40E4-8322-822EA9AD7271}|MVC2\\MVC2.csproj|solutionrelative:mvc2\\views\\homet\\studentinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41552E9D-E2B2-40E4-8322-822EA9AD7271}|MVC2\\MVC2.csproj|D:\\MVC2\\mvc2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41552E9D-E2B2-40E4-8322-822EA9AD7271}|MVC2\\MVC2.csproj|solutionrelative:mvc2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41552E9D-E2B2-40E4-8322-822EA9AD7271}|MVC2\\MVC2.csproj|D:\\MVC2\\mvc2\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41552E9D-E2B2-40E4-8322-822EA9AD7271}|MVC2\\MVC2.csproj|solutionrelative:mvc2\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41552E9D-E2B2-40E4-8322-822EA9AD7271}|MVC2\\MVC2.csproj|D:\\MVC2\\mvc2\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41552E9D-E2B2-40E4-8322-822EA9AD7271}|MVC2\\MVC2.csproj|solutionrelative:mvc2\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41552E9D-E2B2-40E4-8322-822EA9AD7271}|MVC2\\MVC2.csproj|D:\\MVC2\\mvc2\\views\\homet\\second.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41552E9D-E2B2-40E4-8322-822EA9AD7271}|MVC2\\MVC2.csproj|solutionrelative:mvc2\\views\\homet\\second.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41552E9D-E2B2-40E4-8322-822EA9AD7271}|MVC2\\MVC2.csproj|D:\\MVC2\\mvc2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41552E9D-E2B2-40E4-8322-822EA9AD7271}|MVC2\\MVC2.csproj|solutionrelative:mvc2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\MVC2\\MVC2\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "MVC2\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\MVC2\\MVC2\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "MVC2\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T18:19:23.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InlineHtmlHelper.cshtml",
+              "DocumentMoniker": "D:\\MVC2\\MVC2\\Views\\homet\\InlineHtmlHelper.cshtml",
+              "RelativeDocumentMoniker": "MVC2\\Views\\homet\\InlineHtmlHelper.cshtml",
+              "ToolTip": "D:\\MVC2\\MVC2\\Views\\homet\\InlineHtmlHelper.cshtml",
+              "RelativeToolTip": "MVC2\\Views\\homet\\InlineHtmlHelper.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T16:24:18.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentInfo.cshtml",
+              "DocumentMoniker": "D:\\MVC2\\MVC2\\Views\\homet\\StudentInfo.cshtml",
+              "RelativeDocumentMoniker": "MVC2\\Views\\homet\\StudentInfo.cshtml",
+              "ToolTip": "D:\\MVC2\\MVC2\\Views\\homet\\StudentInfo.cshtml",
+              "RelativeToolTip": "MVC2\\Views\\homet\\StudentInfo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T16:20:52.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\MVC2\\MVC2\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "MVC2\\Models\\Student.cs",
+              "ToolTip": "D:\\MVC2\\MVC2\\Models\\Student.cs",
+              "RelativeToolTip": "MVC2\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T16:07:13.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\MVC2\\MVC2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\MVC2\\MVC2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:58:46.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Second.cshtml",
+              "DocumentMoniker": "D:\\MVC2\\MVC2\\Views\\homet\\Second.cshtml",
+              "RelativeDocumentMoniker": "MVC2\\Views\\homet\\Second.cshtml",
+              "ToolTip": "D:\\MVC2\\MVC2\\Views\\homet\\Second.cshtml",
+              "RelativeToolTip": "MVC2\\Views\\homet\\Second.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T04:28:08.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hometController.cs",
+              "DocumentMoniker": "D:\\MVC2\\MVC2\\Controllers\\hometController.cs",
+              "RelativeDocumentMoniker": "MVC2\\Controllers\\hometController.cs",
+              "ToolTip": "D:\\MVC2\\MVC2\\Controllers\\hometController.cs",
+              "RelativeToolTip": "MVC2\\Controllers\\hometController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T04:27:17.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Aboutus.cshtml",
+              "DocumentMoniker": "D:\\MVC2\\MVC2\\Views\\Home\\Aboutus.cshtml",
+              "RelativeDocumentMoniker": "MVC2\\Views\\Home\\Aboutus.cshtml",
+              "ToolTip": "D:\\MVC2\\MVC2\\Views\\Home\\Aboutus.cshtml",
+              "RelativeToolTip": "MVC2\\Views\\Home\\Aboutus.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T04:19:36.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MVC2\\MVC2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\MVC2\\MVC2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T04:48:29.857Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
